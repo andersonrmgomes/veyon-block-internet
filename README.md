@@ -68,7 +68,7 @@ Para automatizar o controle em todas as estações do laboratório via Veyon:
 - Execute e todas as máquinas selecionadas irão rodar o script em segundo plano, sem intervenção do usuário e sem necessidade de permissões administrativas na estação.
 
     🔹 Dica: você pode criar atalhos ou botões no Veyon para “Bloquear Internet” e “Liberar Internet” para simplificar o uso diário.
-
+---
 ## Observações
 
 - Sempre execute 2_create_tasks.bat como Administrador para criar corretamente as tarefas.
@@ -77,7 +77,9 @@ Para automatizar o controle em todas as estações do laboratório via Veyon:
 
 - A execução via Veyon permite gerenciar todas as estações simultaneamente, mantendo controle de rede centralizado.
 
-MIT License
+---
+
+## MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
